@@ -1,0 +1,241 @@
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.exe
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\bin\Debug\MDKCurs.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Category.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Main.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.exe
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.OrderDetails.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Products.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Users.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+C:\Users\nikit\OneDrive\Рабочий стол\lab2\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\курсач\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\курсач\MDKCurs\bin\Debug\MDKCurs.exe
+E:\курсач\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Category.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.exe
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.pdb
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.OrderDetails.EditOrderDetailForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.OrdersDetails.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+E:\курсач\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+E:\Курсач МДК\курсач\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\Курсач МДК\курсач\MDKCurs\bin\Debug\MDKCurs.exe
+E:\Курсач МДК\курсач\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\Курсач МДК\курсач\MDKCurs\bin\Debug\System.ValueTuple.dll
+E:\Курсач МДК\курсач\MDKCurs\bin\Debug\System.ValueTuple.xml
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.csprojAssemblyReference.cache
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Category.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.OrderDetails.EditOrderDetailForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.OrdersDetails.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.CopyComplete
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.exe
+E:\Курсач МДК\курсач\MDKCurs\obj\Debug\MDKCurs.pdb
+H:\РПМ\курсач\MDKCurs\bin\Debug\MDKCurs.exe.config
+H:\РПМ\курсач\MDKCurs\bin\Debug\MDKCurs.exe
+H:\РПМ\курсач\MDKCurs\bin\Debug\MDKCurs.pdb
+H:\РПМ\курсач\MDKCurs\bin\Debug\System.ValueTuple.dll
+H:\РПМ\курсач\MDKCurs\bin\Debug\System.ValueTuple.xml
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.csprojAssemblyReference.cache
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Category.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Main.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.OrderDetails.EditOrderDetailForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.OrdersDetails.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Products.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.Users.resources
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.csproj.CopyComplete
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.exe
+H:\РПМ\курсач\MDKCurs\obj\Debug\MDKCurs.pdb
+E:\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.exe
+E:\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\КурСАЧ МЕЙН\MDKCurs\bin\Debug\System.ValueTuple.dll
+E:\КурСАЧ МЕЙН\MDKCurs\bin\Debug\System.ValueTuple.xml
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Category.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.OrderDetails.EditOrderDetailForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.OrdersDetails.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.exe
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.pdb
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+E:\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.Up2Date
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.exe
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\bin\Debug\System.ValueTuple.dll
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\bin\Debug\System.ValueTuple.xml
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Category.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.OrderDetails.EditOrderDetailForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.OrdersDetails.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Products.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.csproj.Up2Date
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.exe
+E:\3курс\КурСАЧ МЕЙН\MDKCurs\obj\Debug\MDKCurs.pdb
+H:\УП 02.01\MDKCurs\bin\Debug\MDKCurs.exe.config
+H:\УП 02.01\MDKCurs\bin\Debug\MDKCurs.exe
+H:\УП 02.01\MDKCurs\bin\Debug\MDKCurs.pdb
+H:\УП 02.01\MDKCurs\bin\Debug\System.ValueTuple.dll
+H:\УП 02.01\MDKCurs\bin\Debug\System.ValueTuple.xml
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Category.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Form2.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Main.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Products.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.Users.resources
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.csproj.Up2Date
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.exe
+H:\УП 02.01\MDKCurs\obj\Debug\MDKCurs.pdb
+C:\Users\Admin\Desktop\MDKCurs\bin\Debug\MDKCurs.exe.config
+C:\Users\Admin\Desktop\MDKCurs\bin\Debug\MDKCurs.exe
+C:\Users\Admin\Desktop\MDKCurs\bin\Debug\MDKCurs.pdb
+C:\Users\Admin\Desktop\MDKCurs\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\MDKCurs\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Category.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Main.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Users.resources
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.exe
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.pdb
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.csproj.CopyComplete
+C:\Users\Admin\Desktop\MDKCurs\obj\Debug\MDKCurs.Books.resources
+E:\4 курс\УП 02.01\4\MDKCurs\bin\Debug\MDKCurs.exe.config
+E:\4 курс\УП 02.01\4\MDKCurs\bin\Debug\MDKCurs.exe
+E:\4 курс\УП 02.01\4\MDKCurs\bin\Debug\MDKCurs.pdb
+E:\4 курс\УП 02.01\4\MDKCurs\bin\Debug\System.ValueTuple.dll
+E:\4 курс\УП 02.01\4\MDKCurs\bin\Debug\System.ValueTuple.xml
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.csproj.AssemblyReference.cache
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Category.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Cat.EditCategoryForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.CreateOrder.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Form1.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Main.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Order.EditOrderForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Orders.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Prod.EditProductForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Books.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Properties.Resources.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Rev.EditReviewForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Reviews.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.SearchForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.UserFormsss.EditUserForm.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.Users.resources
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.csproj.GenerateResource.cache
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.csproj.CoreCompileInputs.cache
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.csproj.CopyComplete
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.exe
+E:\4 курс\УП 02.01\4\MDKCurs\obj\Debug\MDKCurs.pdb
